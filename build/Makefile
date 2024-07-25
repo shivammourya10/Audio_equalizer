@@ -177,6 +177,30 @@ imgui/backends/imgui_impl_sdl2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AudioEqualizer.dir/build.make CMakeFiles/AudioEqualizer.dir/imgui/backends/imgui_impl_sdl2.cpp.s
 .PHONY : imgui/backends/imgui_impl_sdl2.cpp.s
 
+imgui/imgui-knobs.o: imgui/imgui-knobs.cpp.o
+.PHONY : imgui/imgui-knobs.o
+
+# target to build an object file
+imgui/imgui-knobs.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AudioEqualizer.dir/build.make CMakeFiles/AudioEqualizer.dir/imgui/imgui-knobs.cpp.o
+.PHONY : imgui/imgui-knobs.cpp.o
+
+imgui/imgui-knobs.i: imgui/imgui-knobs.cpp.i
+.PHONY : imgui/imgui-knobs.i
+
+# target to preprocess a source file
+imgui/imgui-knobs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AudioEqualizer.dir/build.make CMakeFiles/AudioEqualizer.dir/imgui/imgui-knobs.cpp.i
+.PHONY : imgui/imgui-knobs.cpp.i
+
+imgui/imgui-knobs.s: imgui/imgui-knobs.cpp.s
+.PHONY : imgui/imgui-knobs.s
+
+# target to generate assembly for a file
+imgui/imgui-knobs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AudioEqualizer.dir/build.make CMakeFiles/AudioEqualizer.dir/imgui/imgui-knobs.cpp.s
+.PHONY : imgui/imgui-knobs.cpp.s
+
 imgui/imgui.o: imgui/imgui.cpp.o
 .PHONY : imgui/imgui.o
 
@@ -336,6 +360,9 @@ help:
 	@echo "... imgui/backends/imgui_impl_sdl2.o"
 	@echo "... imgui/backends/imgui_impl_sdl2.i"
 	@echo "... imgui/backends/imgui_impl_sdl2.s"
+	@echo "... imgui/imgui-knobs.o"
+	@echo "... imgui/imgui-knobs.i"
+	@echo "... imgui/imgui-knobs.s"
 	@echo "... imgui/imgui.o"
 	@echo "... imgui/imgui.i"
 	@echo "... imgui/imgui.s"

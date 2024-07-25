@@ -81,12 +81,12 @@ clean: CMakeFiles/AudioEqualizer.dir/clean
 CMakeFiles/AudioEqualizer.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AudioEqualizer.dir/build.make CMakeFiles/AudioEqualizer.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AudioEqualizer.dir/build.make CMakeFiles/AudioEqualizer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/shivammourya/AudioEqualizer/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target AudioEqualizer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/shivammourya/AudioEqualizer/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Built target AudioEqualizer"
 .PHONY : CMakeFiles/AudioEqualizer.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/AudioEqualizer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/shivammourya/AudioEqualizer/build/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/shivammourya/AudioEqualizer/build/CMakeFiles 10
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/AudioEqualizer.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/shivammourya/AudioEqualizer/build/CMakeFiles 0
 .PHONY : CMakeFiles/AudioEqualizer.dir/rule

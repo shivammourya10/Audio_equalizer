@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/shivammourya/AudioEqualizer/imgui/backends/imgui_impl_opengl3.cpp" "CMakeFiles/AudioEqualizer.dir/imgui/backends/imgui_impl_opengl3.cpp.o" "gcc" "CMakeFiles/AudioEqualizer.dir/imgui/backends/imgui_impl_opengl3.cpp.o.d"
   "/Users/shivammourya/AudioEqualizer/imgui/backends/imgui_impl_sdl2.cpp" "CMakeFiles/AudioEqualizer.dir/imgui/backends/imgui_impl_sdl2.cpp.o" "gcc" "CMakeFiles/AudioEqualizer.dir/imgui/backends/imgui_impl_sdl2.cpp.o.d"
+  "/Users/shivammourya/AudioEqualizer/imgui/imgui-knobs.cpp" "CMakeFiles/AudioEqualizer.dir/imgui/imgui-knobs.cpp.o" "gcc" "CMakeFiles/AudioEqualizer.dir/imgui/imgui-knobs.cpp.o.d"
   "/Users/shivammourya/AudioEqualizer/imgui/imgui.cpp" "CMakeFiles/AudioEqualizer.dir/imgui/imgui.cpp.o" "gcc" "CMakeFiles/AudioEqualizer.dir/imgui/imgui.cpp.o.d"
   "/Users/shivammourya/AudioEqualizer/imgui/imgui_demo.cpp" "CMakeFiles/AudioEqualizer.dir/imgui/imgui_demo.cpp.o" "gcc" "CMakeFiles/AudioEqualizer.dir/imgui/imgui_demo.cpp.o.d"
   "/Users/shivammourya/AudioEqualizer/imgui/imgui_draw.cpp" "CMakeFiles/AudioEqualizer.dir/imgui/imgui_draw.cpp.o" "gcc" "CMakeFiles/AudioEqualizer.dir/imgui/imgui_draw.cpp.o.d"
