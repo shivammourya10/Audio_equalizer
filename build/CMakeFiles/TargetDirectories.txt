@@ -1,0 +1,3 @@
+/Users/shivammourya/AudioEqualizer/build/CMakeFiles/AudioEqualizer.dir
+/Users/shivammourya/AudioEqualizer/build/CMakeFiles/edit_cache.dir
+/Users/shivammourya/AudioEqualizer/build/CMakeFiles/rebuild_cache.dir
