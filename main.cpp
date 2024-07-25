@@ -8,7 +8,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
-#include "imgui_knobs.h" // Include ImGuiKnobs
+// #include "imgui_knobs.h" // Include ImGuiKnobs
 
 // Define the number of equalizer bands
 const int NUM_BANDS = 6;
@@ -194,7 +194,7 @@ int main(int argc, char* argv[]) {
         ImGui::End();
 
         ImGui::Begin("Playback Control");
-        ImGuiKnob::Knob("Playback Speed", &playbackSpeed, -1.0f, 2.0f, 0.01f, "");
+        // ImGuiKnob::Knob("Playback Speed", &playbackSpeed, -1.0f, 2.0f, 0.01f, "");
         ImGui::End();
 
         ImGui::Render();
